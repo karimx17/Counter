@@ -2,3 +2,75 @@ body {
     text-align: center;
     font-size: 2rem;
 }
+.green {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    }
+
+    .green:hover {background-color: #3e8e41}
+
+    .green:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.red {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .red:hover {background-color: red}
+  
+  .red:active {
+    background-color: red;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .black {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .black:hover {background-color: black}
+  
+  .black:active {
+    background-color: black;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  h1, h2{
+    font-family: Georgia, sans-serif;
+    font-size: 3em;
+    letter-spacing: -2px;
+  }
+  
